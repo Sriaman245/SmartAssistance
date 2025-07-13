@@ -1,4 +1,4 @@
-# 📚 Smart Research Assistant
+# Smart Assistant
 
 An AI-powered tool that helps researchers and students quickly analyze documents, answer questions, and test comprehension through interactive challenges.
 
